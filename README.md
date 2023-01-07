@@ -13,3 +13,9 @@ A vertex has three stages:
 * Finished: Black
 
 You are able to spawn in as many verticies as you wish and can connect them via the text boxes at the bottom left.
+
+
+https://user-images.githubusercontent.com/35748374/211171068-dec744a0-22d0-4f7b-aac8-b777eef1658c.mp4
+
+
+
